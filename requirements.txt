@@ -9,5 +9,6 @@ joblib==0.16.0
 gunicorn==20.0.4
 spacy==2.3.5
 numpy==1.19.4
-git+ssh://git@github.com/Prabhat-git-99/text_process_prabhat99.git
+# git+ssh://git@github.com/Prabhat-git-99/text_process_prabhat99.git
+git+git://github.com/Prabhat-git-99/text_process_prabhat99.git
 
