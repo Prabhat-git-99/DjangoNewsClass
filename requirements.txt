@@ -50,4 +50,6 @@ git+git://github.com/Prabhat-git-99/text_process_prabhat99.git
 # -m spacy download en_core_web_md
 
 spacy>=2.0.0,<3.0.0
-git+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz
+# git+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz
+
+# /Users/praba/en_core_web_sm-2.2.0.tar.gz
