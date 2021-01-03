@@ -45,4 +45,5 @@ wasabi==0.8.0
 whitenoise==5.2.0
 # git+https://github.com/explosion/spacy-models/releases/download/en_vectors_web_lg-2.1.0/en_vectors_web_lg-2.1.0.tar.gz#egg=en_core_web_sm
 git+git://github.com/Prabhat-git-99/text_process_prabhat99.git
--m spacy download en_core_web_md
+# -m spacy download en_core_web_md
+en_core_web_lg
