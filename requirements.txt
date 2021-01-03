@@ -11,8 +11,8 @@ Django==3.1.4
 django-cors-headers==3.6.0
 django-heroku==0.3.1
 djangorestframework==3.12.2
-en-core-web-lg==2.3.1
-en-core-web-sm==2.3.1
+# en-core-web-lg==2.3.1
+# en-core-web-sm==2.3.1
 gunicorn==20.0.4
 heroku==0.1.4
 idna==2.10
@@ -35,7 +35,7 @@ soupsieve==2.1
 spacy==2.3.5
 sqlparse==0.4.1
 srsly==1.0.5
-text-process-prabhat99==0.0.1
+# text-process-prabhat99==0.0.1
 textblob==0.15.3
 thinc==7.4.5
 threadpoolctl==2.1.0
@@ -43,3 +43,5 @@ tqdm==4.55.0
 urllib3==1.26.2
 wasabi==0.8.0
 whitenoise==5.2.0
+-e https://github.com/explosion/spacy-models/releases/download/en_vectors_web_lg-2.1.0/en_vectors_web_lg-2.1.0.tar.gz#egg=en_core_web_sm
+git+git://github.com/Prabhat-git-99/text_process_prabhat99.git
