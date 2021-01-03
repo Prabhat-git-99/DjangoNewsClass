@@ -43,5 +43,3 @@ tqdm==4.55.0
 urllib3==1.26.2
 wasabi==0.8.0
 whitenoise==5.2.0
-model_s3_url
-en_core_web_lg
